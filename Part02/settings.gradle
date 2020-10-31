@@ -1,0 +1,10 @@
+include ':inputform'
+include ':call'
+include ':ex_04_02'
+include ':ex_04'
+include ':ex_03'
+include ':ex_02'
+include ':test_02'
+include ':ex_01'
+include ':app'
+rootProject.name = "Part02"

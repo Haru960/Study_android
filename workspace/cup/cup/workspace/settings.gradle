@@ -1,0 +1,12 @@
+include ':cup'
+include ':listview_image'
+include ':arraylist_01'
+include ':list_view'
+include ':layouttest'
+include ':ex03'
+include ':ex_2_inputform'
+include ':ex2'
+include ':ex01'
+include ':test1'
+include ':app'
+rootProject.name = "Part1"
